@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PrakharVasishtha
-- 👀 I’m interested in developing all kind of useful and / or latest tech products.
-- 🌱 I’m currently learning Python, Maths, Algos.
-- 💞️ I’m looking to collaborate on any project that can make useful impact.
-- 📫 How to reach me : twitter @prakharvasishth email @ prakharvasishtha9 at gmail .com
+- 👀 I’m interested in developing high impact softwares.
+- 🌱 I’m a full stack programmer, and my skills are Algorithms, Software Design, Python, SQL, Linux, HTML, CSS, Javascript.
+- 💞️ I’m looking to collaborate on a high impact tech project.
+- 📫 Feel free to reach me : twitter @prakharvasishth email @ prakharvasishtha9 at gmail .com
 
 <!---
 PrakharVasishtha/PrakharVasishtha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
